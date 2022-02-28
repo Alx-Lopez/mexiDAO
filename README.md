@@ -1,1 +1,1 @@
-# myDAO
+# SpotDao
